@@ -1,0 +1,39 @@
+{
+  "codes": [
+    {
+      "code": "KRAK-A1B2",
+      "note": "Global test code — unlocks all categories",
+      "disabled": false
+    },
+    {
+      "code": "OLD-TEST1",
+      "note": "Old Town only — test",
+      "category": "old-town",
+      "disabled": false
+    },
+    {
+      "code": "KAZ-TEST2",
+      "note": "Kazimierz only — test",
+      "category": "kazimierz",
+      "disabled": false
+    },
+    {
+      "code": "JOSEF-T3",
+      "note": "Josefstadt only — test",
+      "category": "josefstadt",
+      "disabled": false
+    },
+    {
+      "code": "KING-TEST4",
+      "note": "Kings Route only — test",
+      "category": "kings-route",
+      "disabled": false
+    },
+    {
+      "code": "WAWEL-T5",
+      "note": "Wawel Castle only — test",
+      "category": "wawel",
+      "disabled": false
+    }
+  ]
+}
